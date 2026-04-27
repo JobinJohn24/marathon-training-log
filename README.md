@@ -152,5 +152,3 @@ The entire application lives in a single HTML file. No build process, no npm, no
 | Dependencies | None |
 
 ---
-
-*Built with Claude · Trained with grit*
