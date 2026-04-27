@@ -8,9 +8,7 @@ A fully interactive, browser-based 20-week marathon training tracker with integr
 
 ## Live Demo
 
-**[Launch Training Log →](https://yourusername.github.io/marathon-training-log/marathon_training_log.html)**
-
-*(Replace `yourusername` with your actual GitHub username after publishing)*
+**[Launch Training Log →](https://JobinJohn24.github.io/marathon-training-log/marathon_training_log.html)**
 
 ---
 
