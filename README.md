@@ -4,14 +4,6 @@ A fully interactive, browser-based 20-week marathon training tracker with integr
 
 > **No server. No login. No app store.** Just open the link and train.
 
----
-
-## Live Demo
-
-**[Launch Training Log →](https://JobinJohn24.github.io/marathon-training-log/marathon_training_log.html)**
-
----
-
 ## What This Is
 
 A personal training dashboard designed for someone running their first (or next) marathon while maintaining a strength training routine. It tracks every workout across all 20 weeks, remembers exactly where you left off, and celebrates milestones along the way.
